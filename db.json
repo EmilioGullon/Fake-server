@@ -34,17 +34,6 @@
       "courses": ["INF101"]
     },
     {
-      "dni": "45678901D",
-      "name": "Ana",
-      "surname": "Martínez Gómez",
-      "enrollment": "2021045678",
-      "degree": "Ingeniería Electrónica",
-      "email": "ana.martinez@correo.ugr.es",
-      "password": "anaSecure012",
-      "year": 4,
-      "courses": ["ELE303", "ELE304"]
-    },
-    {
       "dni": "56789012E",
       "name": "Luis",
       "surname": "Fernández Ortega",
@@ -65,11 +54,6 @@
     {
       "name": "Ingeniería de Telecomunicaciones",
       "code": "TEL002",
-      "duration_years": 4
-    },
-    {
-      "name": "Ingeniería Electrónica",
-      "code": "ELE003",
       "duration_years": 4
     }
   ],
@@ -97,24 +81,6 @@
       "name": "Redes de Telecomunicación",
       "degree": "Ingeniería de Telecomunicaciones",
       "year": 3
-    },
-    {
-      "code": "ELE303",
-      "name": "Circuitos Electrónicos",
-      "degree": "Ingeniería Electrónica",
-      "year": 1
-    },
-    {
-      "code": "ELE304",
-      "name": "Sistemas Digitales",
-      "degree": "Ingeniería Electrónica",
-      "year": 4
-    },
-    {
-      "code": "TEL204",
-      "name": "Antenas y Propagación",
-      "degree": "Ingeniería de Telecomunicaciones",
-      "year": 5
     }
   ]
 }
