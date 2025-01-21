@@ -9,7 +9,7 @@
       "email": "juan.perez@correo.ugr.es",
       "password": "password123",
       "year": 2,
-      "courses": ["INF101", "INF102"]
+      "courses": ["FR", "ED", "NPI"]
     },
     {
       "dni": "23456789B",
@@ -31,7 +31,7 @@
       "email": "carlos.hernandez@correo.ugr.es",
       "password": "carlosPass789",
       "year": 1,
-      "courses": ["INF101"]
+      "courses": ["FR", "NPI"]
     },
     {
       "dni": "56789012E",
@@ -59,21 +59,21 @@
   ],
   "courses": [
     {
-      "code": "INF101",
-      "name": "Programación Avanzada",
+      "code": "FR",
+      "name": "Fundamentos de Redes",
       "degree": "Ingeniería Informática",
       "year": 2
     },
     {
-      "code": "INF102",
+      "code": "ED",
       "name": "Estructuras de Datos",
       "degree": "Ingeniería Informática",
       "year": 2
     },
     {
-      "code": "TEL202",
-      "name": "Sistemas de Comunicaciones",
-      "degree": "Ingeniería de Telecomunicaciones",
+      "code": "NPI",
+      "name": "Nuevos Paradigmas de Interacción",
+      "degree": "Ingeniería Informática",
       "year": 3
     },
     {
