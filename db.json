@@ -1,0 +1,120 @@
+{
+  "students": [
+    {
+      "dni": "12345678A",
+      "name": "Juan",
+      "surname": "Pérez López",
+      "enrollment": "2021012345",
+      "degree": "Ingeniería Informática",
+      "email": "juan.perez@correo.ugr.es",
+      "password": "password123",
+      "year": 2,
+      "courses": ["INF101", "INF102"]
+    },
+    {
+      "dni": "23456789B",
+      "name": "María",
+      "surname": "García Sánchez",
+      "enrollment": "2021023456",
+      "degree": "Ingeniería de Telecomunicaciones",
+      "email": "maria.garcia@correo.ugr.es",
+      "password": "securePass456",
+      "year": 3,
+      "courses": ["TEL202", "TEL203"]
+    },
+    {
+      "dni": "34567890C",
+      "name": "Carlos",
+      "surname": "Hernández Ruiz",
+      "enrollment": "2021034567",
+      "degree": "Ingeniería Informática",
+      "email": "carlos.hernandez@correo.ugr.es",
+      "password": "carlosPass789",
+      "year": 1,
+      "courses": ["INF101"]
+    },
+    {
+      "dni": "45678901D",
+      "name": "Ana",
+      "surname": "Martínez Gómez",
+      "enrollment": "2021045678",
+      "degree": "Ingeniería Electrónica",
+      "email": "ana.martinez@correo.ugr.es",
+      "password": "anaSecure012",
+      "year": 4,
+      "courses": ["ELE303", "ELE304"]
+    },
+    {
+      "dni": "56789012E",
+      "name": "Luis",
+      "surname": "Fernández Ortega",
+      "enrollment": "2021056789",
+      "degree": "Ingeniería de Telecomunicaciones",
+      "email": "luis.fernandez@correo.ugr.es",
+      "password": "luisPass345",
+      "year": 5,
+      "courses": ["TEL202", "TEL204"]
+    }
+  ],
+  "degrees": [
+    {
+      "name": "Ingeniería Informática",
+      "code": "INF001",
+      "duration_years": 4
+    },
+    {
+      "name": "Ingeniería de Telecomunicaciones",
+      "code": "TEL002",
+      "duration_years": 4
+    },
+    {
+      "name": "Ingeniería Electrónica",
+      "code": "ELE003",
+      "duration_years": 4
+    }
+  ],
+  "courses": [
+    {
+      "code": "INF101",
+      "name": "Programación Avanzada",
+      "degree": "Ingeniería Informática",
+      "year": 2
+    },
+    {
+      "code": "INF102",
+      "name": "Estructuras de Datos",
+      "degree": "Ingeniería Informática",
+      "year": 2
+    },
+    {
+      "code": "TEL202",
+      "name": "Sistemas de Comunicaciones",
+      "degree": "Ingeniería de Telecomunicaciones",
+      "year": 3
+    },
+    {
+      "code": "TEL203",
+      "name": "Redes de Telecomunicación",
+      "degree": "Ingeniería de Telecomunicaciones",
+      "year": 3
+    },
+    {
+      "code": "ELE303",
+      "name": "Circuitos Electrónicos",
+      "degree": "Ingeniería Electrónica",
+      "year": 1
+    },
+    {
+      "code": "ELE304",
+      "name": "Sistemas Digitales",
+      "degree": "Ingeniería Electrónica",
+      "year": 4
+    },
+    {
+      "code": "TEL204",
+      "name": "Antenas y Propagación",
+      "degree": "Ingeniería de Telecomunicaciones",
+      "year": 5
+    }
+  ]
+}
